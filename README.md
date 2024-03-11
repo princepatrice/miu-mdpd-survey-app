@@ -11,7 +11,8 @@
 ![Food Selection](screenshots/foodselection.png)
 
 ###### Diatery
-![Default Page](screenshots/diateryselection.jpeg)
+Must select all the options
+![error](screenshots/daiteryerror.jpeg)
 
 - After Selection
-![Selection Error ](screenshots/diateryerror.jpeg)
+![After selection](screenshots/diateryselection.jpeg)
